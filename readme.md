@@ -1,3 +1,4 @@
-"Hello Git How are you ?"
+Wassup everybody, welcome to my Git
 -I'm adding this from
-'feature-branch'
+Yo Ten here
+'dev-jsm'
