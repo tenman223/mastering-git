@@ -1,3 +1,3 @@
-"Hello Git How are you ?"
+Welcome to Git
 -I'm adding this from
-'feature-branch'
+'dev-ten'
